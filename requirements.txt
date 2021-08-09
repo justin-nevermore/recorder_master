@@ -11,7 +11,7 @@ pyperclip==1.8.0
 PyRect==0.1.4
 PyScreeze==0.1.26
 PyTweening==1.0.3
-pywin32==228
+pywin32==301
 selenium==3.141.0
 six==1.15.0
 urllib3==1.25.9
